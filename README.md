@@ -1,10 +1,8 @@
 <div align="center"> 
-<h1> Programador <img src="https://media4.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47u4gqcr2hydthsk4uw5x0uzcvv4r58ghz99bo1xrm&amp;rid=giphy.gif&amp;ct=g" width="1000px"></h1> 
+<h1> Programador <img src="https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47u4gqcr2hydthsk4uw5x0uzcvv4r58ghz99bo1xrm&amp;rid=giphy.gif&amp;ct=g" width="1000px"></h1> 
 <p>⚡ Love programation ⚡</p>
 <p>💫 Love cybersecurity 💫</p>
- 
 <p>💀 7 years of experience 💀</p>
-
 <p>🔥 Still a student 🔥</p>
 
 ## Estadísticas
