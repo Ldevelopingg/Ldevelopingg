@@ -1,9 +1,11 @@
 <div align="center"> 
-<h1> Programador <img src="https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47u4gqcr2hydthsk4uw5x0uzcvv4r58ghz99bo1xrm&amp;rid=giphy.gif&amp;ct=g" width="1000px"></h1> 
+<h1> Programador <img src="https://media3.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif?cid=ecf05e47gg7cjxndjvplzs4qbbr7tvvupsue5zip2862o7jn&amp;rid=giphy.gif&amp;ct=g" width="100px"></h1> 
 <p>⚡ Love programation ⚡</p>
 <p>💫 Love cybersecurity 💫</p>
 <p>💀 7 years of experience 💀</p>
 <p>🔥 Still a student 🔥</p>
+  
+ <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47aupiws7a5dwhcpaduqsggn8opr98c9180wbhfgfe&amp;rid=giphy.gif&amp;ct=g" alt="Código Codificación GIF por EscuelaDevRock" style="width: 500px; height: 488.542px; left: 0px; top: 0px; opacity: 0;">
 
 ## Estadísticas
 <div align="center">
