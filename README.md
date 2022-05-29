@@ -1,9 +1,10 @@
 <div align="center"> 
 <h1> Programador <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47aupiws7a5dwhcpaduqsggn8opr98c9180wbhfgfe&amp;rid=giphy.gif&amp;ct=g" width="80px"></h1> 
-<p>⚡ Videojuegos ⚡</p>
-<p>💫 Ciberseguridad 💫</p>
-<p> </p>
-<p>🔥 Aún estudiante 🔥</p>
+<p>🎮 Videojuegos 🎮</p>
+<p>🔒 Ciberseguridad 🔒</p>
+<p>🤖 Inteligencia Artificial/Machine Learning 🤖</p>
+<p>💻 Backend 💻</p>
+<p>👨‍🎓 Aún estudiante 👨‍🎓</p>
   
   
 
