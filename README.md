@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1> Programador <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47aupiws7a5dwhcpaduqsggn8opr98c9180wbhfgfe&amp;rid=giphy.gif&amp;ct=g" width="80px"></h1> 
+<h1> Programador </h1> 
 <p>🎮 Videojuegos 🎮</p>
 <p>🔒 Ciberseguridad 🔒</p>
 <p>🤖 Inteligencia Artificial/Machine Learning 🤖</p>
@@ -11,7 +11,7 @@
 <div align="center"> 
 <h1> Estadísticas </h1> 
   <a href="https://github.com/Ldevelopingg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ldevelopingg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Ldevelopingg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 
@@ -50,7 +50,7 @@
 </div>
 
 <div align="center"> 
-<h1> Seguidores <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47aupiws7a5dwhcpaduqsggn8opr98c9180wbhfgfe&amp;rid=giphy.gif&amp;ct=g" width="80px"></h1> 
+<h1> Seguidores </h1> 
   <a href="https://github.com/Ldevelopingg?tab=followers"><img src="https://img.shields.io/github/followers/Ldevelopingg?label=Seguidores ♡&style=social"
                                                                alt="Github Badge"></a>
   </div>
